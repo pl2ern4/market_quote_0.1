@@ -19,7 +19,7 @@ Please follow given instruction to run this application in local machine.
 
   git clone url-of-git
   
-  eg: git clone https://github.com/pl2ern4/market-quote.git
+  eg: git clone https://github.com/pl2ern4/market-quote_0.1.git
   
 3) go in project using command below:
 
